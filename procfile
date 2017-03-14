@@ -1,1 +1,1 @@
-web:    sh target/m2e-wtp/web-resources/META-INF/maven/WebApp-01/WebApp-01
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* WebApp-01
