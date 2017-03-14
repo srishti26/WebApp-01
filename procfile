@@ -1,1 +1,1 @@
-web:    java -jar target/movie_name.jar
+web:    java -jar target/movie_names.jar
